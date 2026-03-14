@@ -30,6 +30,8 @@ if (status_pelanggan == "ya") and (total > 500000):
     total_diskon_tambahan = total * diskon_tambahan
     print("total diskon tambahan :",total_diskon_tambahan)
     print("total akhir :",total - total_diskon_tambahan)
+else:
+    print("Tidak mendapat diskon tambahan")
     
 kode_diskon_valid = ["HEMAT10","PROMO20","SALE30"]
 
