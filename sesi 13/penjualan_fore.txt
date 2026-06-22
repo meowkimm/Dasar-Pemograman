@@ -1,0 +1,3 @@
+asem,12
+abc susu,34
+acb,21

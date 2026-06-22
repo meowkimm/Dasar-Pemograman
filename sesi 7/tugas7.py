@@ -21,7 +21,7 @@ while True:
     
     tambah = int(input("Tambah berapa? "))
     stok[pilih] += tambah
-
+    
 # Hitung total akhir dan stok rendah
 total = 0
 rendah = 0
